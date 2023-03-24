@@ -9,6 +9,8 @@ gunicorn = "*"
 pymysql = "*"
 django-enumfields = "*"
 heroku = "*"
+requests = "*"
+docker = "*"
 
 [dev-packages]
 

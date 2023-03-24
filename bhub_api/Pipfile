@@ -8,6 +8,7 @@ django = "*"
 gunicorn = "*"
 pymysql = "*"
 django-enumfields = "*"
+heroku = "*"
 
 [dev-packages]
 

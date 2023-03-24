@@ -44,13 +44,13 @@ Para realizar um Post permitindo a criação do cliente temos o seguinte exemplo
 python manage.py runserver
 ``` 
 
-Possíbilitando a visualização do Django admin na porta 8000:
+Possibilitando a visualização do Django admin na porta 8000:
 
 > http://127.0.0.1:8000/admin
 
 8) Criou-se testes dos modelos Clients e Accounts, com suas respetivas factories.
 9) A aplicação está almacenada no Heroku. Se manteve um deploy continuo apartir da imagem do github. 
-Lamentablemente o período de graça para visualizar a pagina web finalizou e não está mais disponível, mas na aresentação posso mostrar como está configurada.  
+Lamentablemente o período de graça para visualizar a pagina web finalizou e não está mais disponível, mas na apresentação posso mostrar como está configurada.  
    
 > https://django-api-bhub.herokuapp.com
 
